@@ -3,16 +3,48 @@
     margin: 0;
     padding: 0;
 }
+/*
+ * Margin
+*/
 
-.m0{
+.m-0{
     margin: 0;
 }
-.m1{
+.m-1{
     margin: 1px;
 }
-.m2{
+.m-2{
     margin: 2px;
 }
+/*
+ * End Margin
+*/
+
+/*
+ * Height
+*/
+.h-50{
+    height: 50px;
+}
+
+/*
+ * End Height
+*/
+
+/*
+ * Width
+*/
+.w-50{
+    width: 50px;
+}
+
+/*
+ * End Width
+*/
+
+/*
+ * Display flex
+*/
 
 .d-flex-row-center{
     display: flex;
@@ -26,3 +58,24 @@
     justify-content: center;
     align-items: center;
 }
+
+/*
+ * End display flex
+*/
+
+
+/*
+ * Background color
+*/
+.bg-black{
+    background-color: black;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+
+/*
+ * End Background color
+*/
